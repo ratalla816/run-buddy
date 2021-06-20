@@ -178,9 +178,11 @@ section {
 .secondary-border {
   border-color: #39a6b2;
 }
+
 .trainers {
   text-align: center;
 }
+
 .trainer {
   width: 900px;
   margin: 0 auto 30px auto;
@@ -188,24 +190,16 @@ section {
   color: #fce138;
   overflow: auto;
 }
+
 .trainer img {
   width: 35%;
   float: left;
-  overflow: auto;
 }
+
 .trainer-bio {
   padding: 35px;
   float: left;
   width: 65%;
-  overflow: auto;
-}
-
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
 }
 
 .trainer-bio h3 {
@@ -222,4 +216,12 @@ section {
 .trainer-bio p {
   font-size: 17px;
   line-height: 1.3;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
 }
